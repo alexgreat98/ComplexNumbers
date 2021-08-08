@@ -7,7 +7,7 @@ Available operations:
 - multiplication
 - division
 
-#Installations
+# Installations
 ___
 
 ```shell
@@ -15,7 +15,7 @@ composer install
 ```
 
 
-#Run Tests
+# Run Tests
 ___
 
 ```shell
